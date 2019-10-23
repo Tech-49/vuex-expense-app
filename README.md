@@ -2,4 +2,4 @@
 
 ## Member expense app
 
-[Demo](https://vuex-expense-app.herokuapp.com).
+[See demo here](https://vuex-expense-app.herokuapp.com)
